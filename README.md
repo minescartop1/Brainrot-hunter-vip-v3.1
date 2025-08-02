@@ -1,5 +1,4 @@
 # Brainrot-hunter-vip-v3.1
-script for steal a brainrot
 local Players = game:GetService("Players")
 local TeleportService = game:GetService("TeleportService")
 local HttpService = game:GetService("HttpService")
